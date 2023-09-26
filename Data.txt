@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJPJV0G.webp",
+            "title": "Meo Simmy 1",
+            "text_Content_": "Start by identifying your niche or theme. Simmy videos can cover a wide range of topics, from gaming to lifestyle, tutorials, and more. Choose a niche that aligns with your interests and expertise."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJPJMfs.webp",
+            "title": "Meo Simmy 2",
+            "text_Content_": "Understand your target audience's preferences and interests. Conduct research to find out what types of Simmy videos are popular in your niche and what viewers are looking for."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJPJWgf.webp",
+            "title": "Meo Simmy 3",
+            "text_Content_": "Gameplay: Record yourself playing popular video games, and add commentary, tips, or humorous moments."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJPJEsn.webp",
+            "title": "Meo Simmy 4",
+            "text_Content_": "Find a unique angle or style that sets your Simmy videos apart from others in your niche. Whether it's your personality, humor, or editing style, make your content distinctive."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJPJcbI.webp",
+            "title": "Meo Simmy 5",
+            "text_Content_": "Outline your video ideas, script if necessary, and create a content schedule. Consistency is key on YouTube, so maintain a regular posting schedule."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJPJ0xt.webp",
+            "title": "Meo Simmy 6",
+            "text_Content_": "Invest in good recording equipment, like a quality microphone and camera, to ensure clear audio and video. Edit your videos to enhance their quality and add your personal touch."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJPJaON.webp",
+            "title": "Meo Simmy 7",
+            "text_Content_": "Encourage viewer engagement by responding to comments, asking for feedback, and running contests or giveaways."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJPJ1WX.webp",
+            "title": "Meo Simmy 8",
+            "text_Content_": "Keep up with trends and changes in your niche and the YouTube platform. Adapt your content strategy accordingly."
         }
     ]
 }
